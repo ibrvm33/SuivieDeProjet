@@ -5,7 +5,7 @@ Ce projet consiste à créer un réseau d'entreprise simulé en utilisant le log
 ## Objectif
 #
 
-    L'objectif principal de ce projet est de mettre en pratique les concepts de base de la segmentation réseau en utilisant des VLANs pour isoler et organiser le trafic, ainsi que de permettre la communication entre différents VLANs via le routage inter-VLAN.
+- L'objectif principal de ce projet est de mettre en pratique les concepts de base de la segmentation réseau en utilisant des VLANs pour isoler et organiser le trafic, ainsi que de permettre la communication entre différents VLANs via le routage inter-VLAN.
 
 ## Contenu du Projet
 #
@@ -20,10 +20,13 @@ Guide d'Utilisation
 
 - Prérequis :
   
-Installer Cisco Packet Tracer sur votre ordinateur.
-Exécution du Projet :
-Ouvrir le fichier .pkt avec Cisco Packet Tracer pour charger la topologie réseau.
-Suivre les instructions du rapport pour configurer les périphériques et effectuer les tests de connectivité.
+- Installer Cisco Packet Tracer sur votre ordinateur.
+  
+- Exécution du Projet :
+  
+- Ouvrir le fichier .pkt avec Cisco Packet Tracer pour charger la topologie réseau.
+  
+- Suivre les instructions du rapport pour configurer les périphériques et effectuer les tests de connectivité.
 
 ## Auteur
         EL OUARDI Ibrahim
